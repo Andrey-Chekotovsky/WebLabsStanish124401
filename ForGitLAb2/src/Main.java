@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello мир!");
         System.out.println("Манера крутит мир!");
         System.out.println("В дабл капе мои заны...");
+        System.out.println("ОПаньки.");
     }
 }
